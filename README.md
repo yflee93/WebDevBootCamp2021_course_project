@@ -13,4 +13,5 @@ Core knowledge I learnt from this class:
 The final project was deployed and can be accessed at Heroku: https://fierce-wildwood-09593.herokuapp.com/
 
 Udemy Certification: 
+![Alt text](./assets/certificate.jpg?raw=true "Title")
 
